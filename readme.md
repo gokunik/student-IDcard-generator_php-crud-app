@@ -28,11 +28,11 @@ Live link: [Student Id Card Generator](http://student-id-generator.epizy.com/log
 - Database schema <br>
     ca3 (database) <br> 
     |----- userTable: 4 column (id,username,password,created) <br>
-    |----- studentsDetails: 11 column ($fname, $lname, $reg, $email, $mobile, $dob, $courseStart, $courseEnd, $image, $address)
+    |----- studentsDetails: 11 column (id,firstName, $lastName, regNo, email, mobile, dob, courseStart, courseEnd, image, address)
 
 ### Project functionality
 
-- Login and Log out functionality
+- Log in and Log out functionality
 - Add, edit, select, remove and download students details
 
 #### Screen Shots
