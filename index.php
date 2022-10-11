@@ -75,7 +75,7 @@ $result = $conn->query($sql);
     ?>
 
 
-    <main id="container" class="container">
+    <main id="container" class="mx-auto">
         <div class=" d-flex align-items-center justify-content-between">
             <h2 class="">Student Details</h2>
             <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#addStudent">

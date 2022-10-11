@@ -19,7 +19,7 @@
                     </div>
                     <div class="body">
                         <div class="image">
-                            <img class="img-thumbnail" width="100px" src="images/student_images/<?php
+                            <img class="img-thumbnail" src="images/student_images/<?php
                                                                                                 echo $dataa['image'];
                                                                                                 ?>" alt="">
                             <p class="dob"><?php
