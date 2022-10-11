@@ -9,9 +9,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 
 
-A php crud application to generate student ID card using php crud operations. The application is integerated with mysql for database support.
+A php crud application to generate student ID card. The application is integerated with mysql for database functionality.
 
-Live link: [Student Id Card Generator](http://student-id-generator.epizy.com/login.php)
+Live link: <a href="https://student-id-generator.epizy.com/" target="_blank"> Student ID card Generator </a>  (best viewed on desktop broswer)
 
 
 
